@@ -2,7 +2,6 @@ import React from 'react';
 
 
 function Project(props) {
-  console.log(props.img)
   return (
       <div className="project">
         <figure className="project__figure">
