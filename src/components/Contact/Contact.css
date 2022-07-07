@@ -22,15 +22,15 @@
   width: 75%;
   padding: 1rem;
   border: none;
-  border-bottom: 1px solid $color-primary;
-  outline-color: $color-primary; 
+  border-bottom: 1px solid #988345;
+  outline-color: #988345; 
 }
 
 .contact__textarea {
   width: 75%;
   padding: 1rem;
-  border: 1px solid $color-primary;
-  outline-color: $color-primary;
+  border: 1px solid #988345;
+  outline-color: #988345;
   font-family: inherit; 
 }
 

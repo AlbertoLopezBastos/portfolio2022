@@ -46,15 +46,15 @@
 }
 
 .card__side--front-1 figure {
-  background-image: linear-gradient(to right bottom, #bda86d, $color-light), url("../../img/front.jpg");
+  background-image: linear-gradient(to right bottom, #bda86d, $color-light), url("../../../public/img/front.jpg");
  }
 
 .card__side--front-2 figure {
-  background-image: linear-gradient(to right bottom, #bda86d, $color-light), url("../../img/back.jpg");
+  background-image: linear-gradient(to right bottom, #bda86d, $color-light), url("../../../public/img/back.jpg");
  }
 
 .card__side--front-3 figure {
-  background-image: linear-gradient(to right bottom, #bda86d, $color-light), url("../../img/test.jpg"); 
+  background-image: linear-gradient(to right bottom, #bda86d, $color-light), url("../../../public/img/test.jpg"); 
 }
 
 @media only screen and (hover: none) {

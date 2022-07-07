@@ -1,6 +1,6 @@
 import React from 'react';
-import Project from './Project';
-import Images from './Images';
+import Project from '../Project/Project';
+import Images from '../Images/Images';
 
 function Projects() {
   return (

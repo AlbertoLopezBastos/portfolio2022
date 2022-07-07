@@ -18,7 +18,7 @@
   height: 25rem;
   width: 40rem;
   transition: all 0.4s;
-  border: 3px solid $color-primary;
+  border: 3px solid #f4f4f4;
   margin: 2rem 0 1rem 0; 
 }
 
@@ -56,11 +56,11 @@
 }
 
 .project__web:hover, .project__github:hover {
-  color: $color-primary; 
+  color: #988345; 
 }
 
 .project__title {
-  color: $color-light; 
+  color: #f4f4f4; 
   top: 3rem;
   left: 50%;
   transform: translate(-50%); 
